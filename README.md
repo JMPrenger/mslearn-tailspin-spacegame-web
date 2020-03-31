@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/prenger/SpaceThing/_apis/build/status/JMPrenger.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/prenger/SpaceThing/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
