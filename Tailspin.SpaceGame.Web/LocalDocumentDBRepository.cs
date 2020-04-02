@@ -68,13 +68,6 @@ namespace TailSpin.SpaceGame.Web
         }
 
 
-
-
-        /// <summary>
-        /// Retrieves the number of items that match the given query predicate.
-        /// </summary>
-        /// <returns>
-        /// A task that represents the asynchronous operation.
         /// The task result contains the number of items that match the query predicate.
         /// </returns>
         /// <param name="queryPredicate">Predicate that specifies which items to select.</param>
@@ -85,6 +78,10 @@ namespace TailSpin.SpaceGame.Web
                 .Count(); // count
 
             return Task<int>.FromResult(count);
+        }
+
+        public void Hello() {
+            Console.WriteLine("Hello")
         }
     }
 }
