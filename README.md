@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=JMPrenger_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=JMPrenger_mslearn-tailspin-spacegame-web)
+
 [![Build Status](https://dev.azure.com/prenger/SpaceThing/_apis/build/status/JMPrenger.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/prenger/SpaceThing/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
