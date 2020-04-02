@@ -81,7 +81,7 @@ namespace TailSpin.SpaceGame.Web
         }
 
         public void Hello() {
-            Console.WriteLine("Hello")
+            Console.WriteLine("Hello");
         }
     }
 }
